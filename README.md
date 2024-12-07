@@ -23,8 +23,8 @@ An interactive **Sudoku Game** written in C from my programming basics final pro
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/sudoku-game-c.git  
-cd sudoku-game-c  
+git clone https://github.com/AriRangga/sudoku-in-c.git  
+cd sudoku-in-c  
 ```  
 
 ### 2. Compile the Program  
@@ -120,7 +120,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## 🙌 Acknowledgments  
-Inspired by the love for logic-based puzzles and the challenge of implementing Sudoku in C.  
+Inspired by the love for logic-based puzzles and the challenge of implementing Sudoku in C :D 
 
 ---
 
